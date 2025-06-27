@@ -89,9 +89,8 @@ Courses are taught by top Wharton faculty, including:
 
 ## 🔗 Useful Links
 
-- [Wharton School](https://platform.onlinelearning.upenn.edu/offering/entrepreneurship-specialization-a0Q2E00000JmMP5UAN)
 - [Official Coursera Specialization Page](https://www.coursera.org/specializations/wharton-entrepreneurship)
-
+- [Wharton School](https://platform.onlinelearning.upenn.edu/offering/entrepreneurship-specialization-a0Q2E00000JmMP5UAN)
 
 ---
 
