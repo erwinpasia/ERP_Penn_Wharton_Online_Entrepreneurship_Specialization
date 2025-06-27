@@ -63,7 +63,7 @@ Pitch decks and executive summaries represent the current standard for business 
     - Bottom-up analysis
     - Combination of both methods
 - **Financial metrics**:
-    - **Addressable market**: Minimum \$1 billion target[^2]
+    - **Addressable market**: Minimum \$1 billion target
     - **Customer Acquisition Cost (CAC)**
     - **Customer Lifetime Value (LTV)**
     - **Success indicator**: LTV > CAC
@@ -82,8 +82,8 @@ Pitch decks and executive summaries represent the current standard for business 
 
 - **Customer acquisition strategy**: Detailed approach for competing and acquiring customers
 - **Traction showcase**: Additional opportunity to demonstrate existing customer adoption
-- **Marketing and sales channels**: Specific tactics and distribution methods[^3]
-- **Customer retention strategies**: Methods for maintaining customer relationships[^3]
+- **Marketing and sales channels**: Specific tactics and distribution methods
+- **Customer retention strategies**: Methods for maintaining customer relationships
 
 
 ### **Slide 8: Team**
@@ -94,7 +94,7 @@ Pitch decks and executive summaries represent the current standard for business 
     - Clear titles and roles
     - Relevant achievements and qualifications
     - Specific expertise related to problem-solving
-- **Additional credibility**: Include advisors or existing major investors[^3]
+- **Additional credibility**: Include advisors or existing major investors
 
 
 ### **Slide 9: Financial Projections**
@@ -102,7 +102,7 @@ Pitch decks and executive summaries represent the current standard for business 
 - **Visual presentation**: Graphs showing burn rate and revenue over time with exponential growth curves
 - **Avoid pure numerical slides**: Use compelling visual representations
 - **Supporting documentation**: Detailed financial models available for discussion but not necessarily presented directly
-- **Timeframe**: 3-5 year forecasts including income statements, cash flow, and balance sheets[^3]
+- **Timeframe**: 3-5 year forecasts including income statements, cash flow, and balance sheets
 
 
 ### **Slide 10: Roadmap, Milestones, and Ask**
@@ -113,32 +113,32 @@ Pitch decks and executive summaries represent the current standard for business 
     - Funding amount required
     - Intended use of capital
     - Meeting objectives
-- **Funding breakdown**: Specific allocation percentages (e.g., 30% product development, 50% marketing)[^4]
+- **Funding breakdown**: Specific allocation percentages (e.g., 30% product development, 50% marketing)4]
 
 
 ## 2025 Best Practices and Modern Considerations
 
 ### **Current Investment Landscape**
 
-- **Increased selectivity**: Early-stage funding dropped 25% from 2022 to 2023[^5]
-- **Evidence-based approach**: Investors demand data-backed insights over "flash and hype"[^5]
-- **Resilience focus**: Emphasis on sustainability and solid planning rather than just potential[^5]
+- **Increased selectivity**: Early-stage funding dropped 25% from 2022 to 2023
+- **Evidence-based approach**: Investors demand data-backed insights over "flash and hype"
+- **Resilience focus**: Emphasis on sustainability and solid planning rather than just potential
 
 
 ### **Optimal Deck Characteristics**
 
-- **Length**: 10-15 slides for early-stage startups[^3]
-- **Guy Kawasaki's 10/20/30 rule**: 10 slides, 20 minutes maximum, minimum 30-point font[^6][^3]
-- **Review time**: Investors spend less than 3 minutes on average reviewing decks[^4]
-- **Success correlation**: Decks under 15 slides have 60% higher chance of securing follow-up meetings[^4]
+- **Length**: 10-15 slides for early-stage startups
+- **Guy Kawasaki's 10/20/30 rule**: 10 slides, 20 minutes maximum, minimum 30-point font
+- **Review time**: Investors spend less than 3 minutes on average reviewing decks
+- **Success correlation**: Decks under 15 slides have 60% higher chance of securing follow-up meetings
 
 
 ### **Design and Presentation Principles**
 
-- **Visual appeal**: Clean, professional design with consistent branding[^7]
-- **Concise content**: Avoid long paragraphs; use charts, graphs, and images[^7]
-- **Compelling narrative**: Engage audience emotionally with structured storytelling[^7]
-- **Market focus**: Clearly articulate market size, customer segments, and growth potential[^7]
+- **Visual appeal**: Clean, professional design with consistent branding
+- **Concise content**: Avoid long paragraphs; use charts, graphs, and images
+- **Compelling narrative**: Engage audience emotionally with structured storytelling
+- **Market focus**: Clearly articulate market size, customer segments, and growth potential
 
 
 ## Demonstration and Interaction Strategies
@@ -166,41 +166,19 @@ Pitch decks and executive summaries represent the current standard for business 
 
 ### **Major Mistakes to Avoid**
 
-- **Information overload**: Too much text, jargon, or unnecessary data[^4]
-- **Vague problem-solving**: Failing to articulate solution importance[^4]
-- **Unclear ask**: Ambiguity around funding needs or capital use[^4]
-- **Generic presentation**: Overly rigid adherence to templates[^6]
+- **Information overload**: Too much text, jargon, or unnecessary data
+- **Vague problem-solving**: Failing to articulate solution importance
+- **Unclear ask**: Ambiguity around funding needs or capital use
+- **Generic presentation**: Overly rigid adherence to templates
 
 
 ### **Consequences of Poor Execution**
 
-- **Loss of investor interest**: Cluttered or poorly designed decks quickly lose attention[^7]
-- **Missed opportunities**: Confused or uninterested investors result in lost funding chances[^7]
+- **Loss of investor interest**: Cluttered or poorly designed decks quickly lose attention
+- **Missed opportunities**: Confused or uninterested investors result in lost funding chances
 - **Credibility damage**: Incomplete competitor analysis appears suspicious to investors
 
 
 ## Strategic Framework Summary
 
 The modern pitch deck serves as both a **standalone document** and a **presentation tool**, requiring careful balance between comprehensive information and engaging storytelling. Success depends on understanding that investors evaluate not just the business idea, but the team's ability to execute, the market opportunity size, and the competitive positioning strategy. The 2025 investment landscape demands **data-driven evidence** of traction and growth potential, making the pitch deck a critical determinant of funding success.
-
-[^2]: https://www.liveplan.com/blog/funding/slides-you-need
-
-[^3]: https://vivatechnology.com/news/how-to-structure-a-startup-pitch-deck-that-attracts-investors?ca=FPSRFYGA
-
-[^4]: https://indibloghub.com/post/startup-pitch-decks-that-win-funding-templates-strategies-for-2025
-
-[^5]: https://www.linkedin.com/pulse/punching-through-pitch-building-killer-deck-captures-2025-john-bailey-wbrfc
-
-[^6]: https://www.storydoc.com/blog/pitch-deck-examples
-
-[^7]: https://www.linkedin.com/pulse/best-practices-pitch-decks-exitsmena
-
-[^8]: https://www.youtube.com/watch?v=jDPsZM82hC0
-
-[^9]: https://www.linkedin.com/pulse/2025-vision-emerging-trends-pitch-deck-design-watch-pitch-populate-hsqsf
-
-[^10]: https://www.slidekit.com/vc-pitch-deck-presentation-templates/
-
-[^11]: https://youexec.com/questions/what-are-the-key-components-of-an-effective-pitch-deck
-
-
