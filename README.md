@@ -81,7 +81,7 @@ Courses are taught by top Wharton faculty, including:
 
 ## 🚀 How to Enroll
 
-1. Visit the [Wharton Entrepreneurship Specialization on Coursera](https://www.coursera.org/specializations/wharton-entrepreneurship).
+1. Visit the [Wharton Entrepreneurship Specialization on Coursera](https://platform.onlinelearning.upenn.edu/offering/entrepreneurship-specialization-a0Q2E00000JmMP5UAN).
 2. Click "Enroll" and choose your payment or financial aid option.
 3. Start learning at your own pace!
 
