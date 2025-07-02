@@ -1,4 +1,4 @@
-# Course 1: Developing the Opportunity
+# Course 1: Developing the Opportunity (updated for 2025 and AI-driven Entrepreneurship)
 
 ## Course Overview
 
