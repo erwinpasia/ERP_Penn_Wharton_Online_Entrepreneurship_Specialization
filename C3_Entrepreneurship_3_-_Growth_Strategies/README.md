@@ -1,4 +1,5 @@
 # Course 3: Growth Strategies
+## *(updated for 2025 and AI-driven Entrepreneurship)*
 
 ## Course Overview
 
