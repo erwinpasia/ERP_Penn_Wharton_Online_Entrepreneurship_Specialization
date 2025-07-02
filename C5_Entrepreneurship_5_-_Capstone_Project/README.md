@@ -1,4 +1,5 @@
-# Pitch Decks and Executive Summaries: A Comprehensive Guide
+# Pitch Decks and Executive Summaries: A Comprehensive Guide ## *(updated for 2025 and AI-driven Entrepreneurship)*
+
 
 ## Introduction and Context
 
