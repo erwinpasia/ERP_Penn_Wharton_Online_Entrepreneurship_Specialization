@@ -1,4 +1,5 @@
 # Course 2: Launching Your Start-Up
+## *(updated for 2025 and AI-driven Entrepreneurship)*
 
 ## Course Overview
 
