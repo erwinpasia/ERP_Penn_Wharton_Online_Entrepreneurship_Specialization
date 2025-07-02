@@ -1,4 +1,5 @@
 # Course 4: Financing and Profitability
+## *(updated for 2025 and AI-driven Entrepreneurship)*
 
 ## Course Overview
 
