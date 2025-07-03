@@ -586,7 +586,7 @@ Harry's made the strategic decision to acquire a century-old razor blade factory
 
 **Founder to CEO Evolution:**
 
-- **Delegation:** Learning to work, how to  shift from a hands-on doers to strategic enablers,trusting and empowering teams through clear objectives and scalable processes, while reallocating their focus from day-to-day tactics to long-term vision, investing in complementary leadership talent, and embedding data-informed, rapid-experiment decision–making. By deliberately crafting a culture of continuous learning, open feedback loops, and adaptive, networked teams—and by weaving sustainability, ethics, and global diversity into every initiative,today’s CEOs can navigate growth responsibly and position their organizations to thrive amid constant change.
+- **Delegation:** Learning to work, how to  shift from a hands-on doers to strategic enablers,trusting and empowering teams through clear objectives and scalable processes, while reallocating their focus from day-to-day tactics to long-term vision, investing in complementary leadership talent, and embedding data-informed, rapid-experiment decision–making. By deliberately crafting a culture of continuous learning, open feedback loops, and adaptive, networked teams, and by weaving sustainability, ethics, and global diversity into every initiative, today’s CEOs can navigate growth responsibly and position their organizations to thrive amid constant change.
 - **Strategic Thinking:** Moving from tactical execution to long-term vision and planning
 - **Team Building:** Recruiting, developing, and retaining high-performing talent
 - **Stakeholder Management:** Balancing needs of investors, customers, employees, and partners
