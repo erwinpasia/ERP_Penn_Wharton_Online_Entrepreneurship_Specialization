@@ -50,6 +50,8 @@ Every feature of OmniCoder is grounded in **extensive enterprise research**—in
 
 🔧 **Conceptual Phase** — This project is a strategic design exercise and not yet in production.
 
+---
+
 # OmniCoder AI Pitch Deck Peer Feedback & Revisions: Capstone Project
 
 ## Executive Summary
