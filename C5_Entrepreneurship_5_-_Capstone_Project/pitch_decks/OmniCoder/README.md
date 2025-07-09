@@ -261,11 +261,3 @@ The evolution from preliminary to final version represents a **strategic pivot f
 5. **Investment readiness** with comprehensive business planning
 
 This transformation positions OmniCoder as a compelling investment opportunity in the rapidly growing AI coding tools market, with a clear focus on the underserved but lucrative regulated enterprise segment.
-
-<div style="text-align: center">⁂</div>
-
-[^1]: OmniCoder_AI_Pitch_Deck_V2_Final_Submission.pdf
-
-[^2]: OmniCoder_AI_Pitch_Deck_Prelim_Review.pdf
-
-
