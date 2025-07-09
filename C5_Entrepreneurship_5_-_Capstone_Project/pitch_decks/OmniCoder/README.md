@@ -1,4 +1,4 @@
-# Capstone Project: Strategic Pitch Deck for OmniCoder
+# Capstone Project: Strategic Pitch-Deck for OmniCoder AI
 
 ## Project Overview
 
@@ -52,7 +52,7 @@ Every feature of OmniCoder is grounded in **extensive enterprise research**—in
 
 ---
 
-# OmniCoder AI Pitch Deck Peer Feedback & Revisions: Capstone Project
+## OmniCoder AI Capstone Project: Pitch-Deck Peer Feedback & Revisions 
 
 ## Executive Summary
 
