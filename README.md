@@ -1,6 +1,6 @@
 # Wharton Online Entrepreneurship Specialization
 
-Welcome! This repository provides a comprehensive overview of the **Entrepreneurship Specialization** offered by the University of Pennsylvania Wharton School through the Coursera online learning platform.
+Welcome! I recently completed the **Entrepreneurship Specialization** certificate program offered by the University of Pennsylvania’s Wharton School through Coursera Learning Platform. Over the course of the five-course series, I took detailed notes with the goal of creating a comprehensive reference resource for anyone interested in **Entrepreneurship** or **Techpreneurship**. Enjoy!
 
 ![pl](assets/ES_BG_5.png)
 
