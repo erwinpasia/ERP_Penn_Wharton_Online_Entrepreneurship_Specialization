@@ -98,7 +98,3 @@ Courses are taught by top Wharton faculty, including:
 ## 📜 License
 
 This README is for informational purposes only and is not officially affiliated with the University of Pennsylvania or Coursera.
-
----
-
-*Start your entrepreneurial journey with Wharton Online and Coursera – from idea to launch and beyond!*
