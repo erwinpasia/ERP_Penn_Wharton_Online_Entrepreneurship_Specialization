@@ -14,14 +14,13 @@ The Wharton Entrepreneurship Specialization is a five-course program, that guide
 - **Learning Platform:** [Wharton Online/Coursera](https://platform.onlinelearning.upenn.edu/offering/entrepreneurship-specialization-a0Q2E00000JmMP5UAN)
 - **Format:** 100% Online, Self-paced
 - **Duration:** ~6 months (2 hours/week recommended)
-- **Level:** Beginner (no prerequisites)
-- **Certificate:** Yes (upon completion)
+- **Specialization Certificate:** Yes (upon completions of the 5-Courses & required Capstone Project)
 
 ---
 
 ## 🏆 Who Should Enroll?
 
-- Aspiring Techpreneurs and Founders
+- Aspiring "Techpreneurs and Founders"
 - Innovators and Intrapreneurs
 - Business professionals and students
 - Anyone interested in the startup process
