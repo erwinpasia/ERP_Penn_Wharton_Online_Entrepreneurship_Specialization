@@ -1,3 +1,5 @@
+![pl](https://github.com/erwinpasia/ERP_Penn_Wharton_Online_Entrepreneurship_Specialization/blob/main/assets/es_growth_strategy.png)
+
 # Course 3: Growth Strategies
 ## *(updated for 2025 and AI-driven Entrepreneurship)*
 
