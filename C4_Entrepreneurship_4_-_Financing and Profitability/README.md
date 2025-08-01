@@ -1,3 +1,5 @@
+![pl](https://github.com/erwinpasia/ERP_Penn_Wharton_Online_Entrepreneurship_Specialization/blob/main/assets/es_finance_profit.png)
+
 # Course 4: Financing and Profitability
 ## *(updated for 2025 and AI-driven Entrepreneurship)*
 
