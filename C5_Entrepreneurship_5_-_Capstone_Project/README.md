@@ -1,3 +1,5 @@
+![pl](https://github.com/erwinpasia/ERP_Penn_Wharton_Online_Entrepreneurship_Specialization/blob/main/assets/es_capstone.png)
+
 # The Ultimate Pitch Deck Guide: A Universal Framework for Any Industry
 
 *A comprehensive, industry-agnostic approach to crafting compelling investor presentations*
