@@ -1,7 +1,7 @@
+![pl](https://github.com/erwinpasia/ERP_Penn_Wharton_Online_Entrepreneurship_Specialization/blob/main/assets/es_opportunity.png)
+
 # Course 1: Developing the Opportunity 
 ## *(updated for 2025 and AI-driven Entrepreneurship)*
-
-![pl](https://github.com/erwinpasia/ERP_Penn_Wharton_Online_Entrepreneurship_Specialization/blob/main/assets/es_opportunity.png)
 
 ## Course Overview
 
