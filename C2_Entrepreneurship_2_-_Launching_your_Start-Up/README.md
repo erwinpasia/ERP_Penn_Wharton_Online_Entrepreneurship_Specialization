@@ -1,3 +1,5 @@
+![pl](https://github.com/erwinpasia/ERP_Penn_Wharton_Online_Entrepreneurship_Specialization/blob/main/assets/es_startup.png)
+
 # Course 2: Launching Your Start-Up
 ## *(updated for 2025 and AI-driven Entrepreneurship)*
 
