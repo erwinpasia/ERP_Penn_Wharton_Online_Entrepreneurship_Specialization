@@ -1,6 +1,8 @@
 # Course 1: Developing the Opportunity 
 ## *(updated for 2025 and AI-driven Entrepreneurship)*
 
+![pl](assets/es_opportunity.png)
+
 ## Course Overview
 
 Entrepreneurship in 2025 represents a fundamental shift from traditional business creation. Modern entrepreneurship encompasses the **creation and management of new enterprises to accomplish specific objectives** - not merely profit generation. This comprehensive definition includes lifestyle entrepreneurship (ventures designed to support personal interests), growth-oriented entrepreneurship (startups aiming for rapid scale), and social entrepreneurship (ventures focused on creating social or environmental impact alongside financial sustainability).
