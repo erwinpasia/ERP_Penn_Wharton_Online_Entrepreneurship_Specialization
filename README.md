@@ -1,6 +1,6 @@
 # Wharton Online Entrepreneurship Specialization
 
-Welcome! I recently completed the **Entrepreneurship Specialization** certificate program offered by the University of Pennsylvania’s Wharton School through Coursera Learning Platform. Over the course of the five-course series, I took detailed notes with the goal of creating a comprehensive reference resource for anyone interested in **Entrepreneurship** or **Techpreneurship**. Enjoy!
+Welcome! I recently earned the **Entrepreneurship Specialization** Certificate from the Wharton School of the University of Pennsylvania via the Coursera Learning Platform. Throughout the five-course program, I compiled detailed notes to create a comprehensive reference for those interested in **Entrepreneurship** and **Techpreneurship**. Enjoy!
 
 ![pl](assets/ES_BG_5.png)
 
@@ -14,7 +14,7 @@ The Wharton Entrepreneurship Specialization is a five-course program, that guide
 - **Learning Platform:** [Wharton Online / Coursera](https://platform.onlinelearning.upenn.edu/offering/entrepreneurship-specialization-a0Q2E00000JmMP5UAN)
 - **Format:** 100% Online, Self-paced
 - **Duration:** ~6 months (2 hours/week recommended)
-- **Specialization Certificate:** Yes (upon completions, of the 5-course series with the mandatory Capstone Project)
+- **Specialization Certificate:** Yes (upon completions, of the five-course program and the mandatory Capstone Project)
 
 ---
 
