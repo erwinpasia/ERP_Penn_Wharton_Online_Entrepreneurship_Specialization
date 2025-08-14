@@ -33,11 +33,11 @@ The specialization consists of **five sequential courses**:
 
 | # | Course Title                                      | Focus Areas |
 |---|---------------------------------------------------|-------------|
-| 1 | ![Developing the Opportunity](https://github.com/erwinpasia/ERP_Penn_Wharton_Online_Entrepreneurship_Specialization/tree/main/C1_Entrepreneurship_1_-_Developing_the_Opportunity)                    | Opportunity recognition, market analysis, customer discovery, ideation |
-| 2 | **Launching Your Start-Up**                       | Lean startup, MVP, team building, pitching, legal basics |
-| 3 | **Growth Strategies**                             | Scaling, customer acquisition, partnerships, growth models |
-| 4 | **Financing and Profitability**                   | Funding sources, financial planning, profitability, exit strategies |
-| 5 | **Wharton Entrepreneurship Capstone**             | Real-world project: business plan or investor pitch |
+| 1 | [**Developing the Opportunity**](https://github.com/erwinpasia/ERP_Penn_Wharton_Online_Entrepreneurship_Specialization/tree/main/C1_Entrepreneurship_1_-_Developing_the_Opportunity)                    | Opportunity recognition, market analysis, customer discovery, ideation |
+| 2 | [**Launching Your Start-Up**](https://github.com/erwinpasia/ERP_Penn_Wharton_Online_Entrepreneurship_Specialization/tree/main/C2_Entrepreneurship_2_-_Launching_your_Start-Up)                       | Lean startup, MVP, team building, pitching, legal basics |
+| 3 | [**Growth Strategies**](https://github.com/erwinpasia/ERP_Penn_Wharton_Online_Entrepreneurship_Specialization/tree/main/C3_Entrepreneurship_3_-_Growth_Strategies)                             | Scaling, customer acquisition, partnerships, growth models |
+| 4 | [**Financing and Profitability**](https://github.com/erwinpasia/ERP_Penn_Wharton_Online_Entrepreneurship_Specialization/tree/main/C4_Entrepreneurship_4_-_Financing%20and%20Profitability)                   | Funding sources, financial planning, profitability, exit strategies |
+| 5 | [**Wharton Entrepreneurship Capstone**](https://github.com/erwinpasia/ERP_Penn_Wharton_Online_Entrepreneurship_Specialization/tree/main/C5_Entrepreneurship_5_-_Capstone_Project)             | Real-world project: business plan or investor pitch |
 
 ---
 
