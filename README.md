@@ -33,7 +33,7 @@ The specialization consists of **five sequential courses**:
 
 | # | Course Title                                      | Focus Areas |
 |---|---------------------------------------------------|-------------|
-| 1 | **Developing the Opportunity**                    | Opportunity recognition, market analysis, customer discovery, ideation |
+| 1 | ![Developing the Opportunity](https://github.com/erwinpasia/ERP_Penn_Wharton_Online_Entrepreneurship_Specialization/tree/main/C1_Entrepreneurship_1_-_Developing_the_Opportunity)                    | Opportunity recognition, market analysis, customer discovery, ideation |
 | 2 | **Launching Your Start-Up**                       | Lean startup, MVP, team building, pitching, legal basics |
 | 3 | **Growth Strategies**                             | Scaling, customer acquisition, partnerships, growth models |
 | 4 | **Financing and Profitability**                   | Funding sources, financial planning, profitability, exit strategies |
