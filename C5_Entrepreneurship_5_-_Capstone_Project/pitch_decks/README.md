@@ -1,11 +1,11 @@
 
 ### Other Pitch-Decks can be found on the links below:
-1. OmniCoder AI: Enterprise Generative AI Coding Compliance Platform
-* [https://www.perplexity.ai/apps/aecabc58-9a9e-45bd-9747-3d1f1d16056c](https://www.perplexity.ai/apps/aecabc58-9a9e-45bd-9747-3d1f1d16056c)
 
-2. Sentinel-Overwatch: The Era of Autonomous Cloud Security is Here. Experience security that thinks, acts, and evolves at machine speed.
-* [https://www.perplexity.ai/apps/498a43d5-eac6-4ebe-8fd4-e8e11833c41b](https://www.perplexity.ai/apps/498a43d5-eac6-4ebe-8fd4-e8e11833c41b)
+1. Cybersecurity AI: The Era of Autonomous Cloud Security is Here. Leveraging multi-agent collaboration to detect zero-day threats in real time. 
+* AI Tech Startup Number 1. To be launched in 2026!
 
-3. Intelligent Healthcare Triage System: A full-stack, cloud-native Intelligent Healthcare Triage Orchestration System based on a multi-layered architecture. The system should automate patient intake, triage decision support, clinical workflow integration, and compliance auditing using AI-powered agents.
-* [https://www.perplexity.ai/apps/28b08b72-2927-4657-b09a-ee4d167679d7](https://www.perplexity.ai/apps/28b08b72-2927-4657-b09a-ee4d167679d7)
+2. Healthcare AI: A full-stack, cloud-native Intelligent Healthcare Orchestration Platform based on a multi-layered architecture and leveraging multi-agent collaboration. The system should deliver hyper-personalized care using federated learning to protect patient data while improving diagnostic accuracy. 
+* AI Tech Startup Number 2. To be launched in 2026!
 
+3. Enterprise Gen AI Compliance: An enterprise Generative AI Coding Compliance Platform, leveraging multi-agent collaboration. It ensure businesses navigate the AI landscape with robust, ethical guardrails. To help them innovate responsibly and ethically. 
+* AI Tech Startup Number 3. To be launched in 2026!
