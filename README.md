@@ -1,6 +1,6 @@
 # Wharton Online Entrepreneurship Specialization
 
-Welcome! I recently completed the certificate program **Entrepreneurship Specialization** from the **Wharton School, of the University of Pennsylvania** via the **Wharton Online & Coursera Learning Platform**. Throughout the five-course program, I compiled detailed notes to create a comprehensive reference for those interested in **Entrepreneurship** and **Techpreneurship**. Enjoy!
+I recently completed the **Entrepreneurship Specialization** certificate program from **The Wharton School** through **Wharton Online** and **Coursera**. Throughout the five-course journey, I compiled detailed notes and insights into a comprehensive reference guide for aspiring **Entrepreneurs** and **Techpreneurs** looking to build and launch their own **AI and Technology Startups**.
 
 [![pl](assets/ES_BG_5.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/V85GHT07OQ4Y)
 
